@@ -1,0 +1,11 @@
+RED;The color of many ripe fruits, like apples and strawberries.
+BLUE;The color of the sky on a clear day.
+GREEN;The color of tree leaves and plants.
+YELLOW;The color of bright sunshine.
+ORANGE;A mix of red and yellow, like the color of a ripe orange.
+PURPLE;A blend of blue and red, like the color of some flowers.
+PINK;A soft, light color often associated with delicate flowers.
+BROWN;The color of earth and many tree trunks.
+BLACK;The darkest color, absence of light.
+WHITE;The lightest color, presence of all colors.
+GRAY;A neutral color between black and white.
